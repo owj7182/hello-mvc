@@ -1,0 +1,8 @@
+com\sh\mvc\member\model\service\MemberServiceTest.class
+com\sh\mvc\board\model\dao\BoardCommentDaoTest.class
+com\sh\mvc\board\model\dao\BoardDaoTest.class
+com\sh\mvc\notification\model\service\NotificationServiceTest.class
+com\sh\mvc\board\model\service\BoardServiceTest.class
+com\sh\mvc\member\model\service\MemberServicePagingTest.class
+com\sh\mvc\photo\model\service\PhotoServiceTest.class
+com\sh\mvc\common\SqlSessionTemplateTest.class
